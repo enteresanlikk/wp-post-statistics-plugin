@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Statistics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-31 20:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: post-statistics"
+
+#. Author of the plugin
+msgid "Bilal Demir"
+msgstr ""
+
+#: index.php:158
+msgid "Bottom"
+msgstr ""
+
+#: index.php:99
+msgid "Character Count"
+msgstr ""
+
+#: index.php:230
+msgid "Character Count: {count}"
+msgstr ""
+
+#: index.php:58
+msgid "Headline Text"
+msgstr ""
+
+#: index.php:194
+msgid "Here you can see the statistics of your website."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bilaldemir.dev"
+msgstr ""
+
+#: index.php:149
+msgid "Invalid location"
+msgstr ""
+
+#: index.php:36
+msgid "Location"
+msgstr ""
+
+#. Name of the plugin
+#: index.php:71 index.php:181 index.php:182 index.php:193 index.php:213
+msgid "Post Statistics"
+msgstr ""
+
+#: index.php:121
+msgid "Read Time"
+msgstr ""
+
+#: index.php:233
+msgid "Read Time: {time} minute(s)"
+msgstr ""
+
+#: index.php:157
+msgid "Top"
+msgstr ""
+
+#: index.php:77
+msgid "Word Count"
+msgstr ""
+
+#: index.php:227
+msgid "Word Count: {count}"
+msgstr ""
